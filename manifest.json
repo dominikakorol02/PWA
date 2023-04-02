@@ -1,0 +1,17 @@
+{
+"name": "Twórczość Jane Austen",
+  "short_name": "Jane Austen",
+  "theme_color": "rgba(243,33,159,0.13)",
+  "background_color": "rgba(243,33,197,0.53)",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+        {
+            "src": "./img/book.png",
+            "size": "64x64",
+            "type":"image/png" 
+        }
+    ]
+}
