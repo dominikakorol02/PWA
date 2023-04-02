@@ -7,7 +7,7 @@
     "orientation": "portrait",
     "icons": [
         {
-            "src": "./book.png",
+            "src": "/book.png",
             "size": "64x64",
             "type": "image/png"
         }
